@@ -11,6 +11,6 @@
     "nuxt": "^3.0.0"
   },
   "dependencies": {
-    "gutendex": "^0.0.4"
+    "gutendex": "^0.0.8"
   }
 }
